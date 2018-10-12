@@ -7,13 +7,17 @@ http.createServer( (req,res) => {
     res.writeHead(200,{'Content-type':'text/html'})
 
     var parsedUrl = url.parse(req.url,true)
+    console.log(parsedUrl)
+    
+    var path=parsedUrl.path.split('/')
+    console.log(path)
     var q = parsedUrl.query    
     if(q.id){
         fs.readFile('./dados/html/obra' + q.id + '.html', (erro,dados)=>{
             if(!erro){
                 res.write(dados)
             }else{
-                //res.write(erro)
+                res.write('Ocorreu um erro!')
                 console.log(erro)
             }
     
