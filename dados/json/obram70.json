@@ -1,0 +1,284 @@
+
+            {
+                "id":"m70",
+                "titulo":"Hosanna in excelsis",
+                "tipo":"Marcha de Procissão"
+                
+                    ,"compositor":"Oscar Navarro"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-bombo-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-bombo-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-clarinete-baixo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"Solo",
+                                
+                                "path":"Hosanna-clarinete-solo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Hosanna-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-eufonio1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-eufonio2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-fagote1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-fagote1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-flauta1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-flauta2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-fliscorne1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-fliscorne2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-maestro.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-oboe1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-oboe2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-requinta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-saxA1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-saxA2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-saxS.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-saxT1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-saxT2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Hosanna-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-trombone2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Hosanna-trombone3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-trompa1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-trompa2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Hosanna-tuba1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Hosanna-tuba1-2.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

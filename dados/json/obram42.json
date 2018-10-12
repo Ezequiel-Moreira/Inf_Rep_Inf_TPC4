@@ -1,0 +1,228 @@
+
+            {
+                "id":"m42",
+                "titulo":"Pilatus: Mountain of Dragons",
+                "tipo":"Abertura/Concerto"
+                
+                    ,"compositor":"Steven Reineke"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-all.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-clarinete-baixo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Pilatus-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Pilatus-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"IIb",
+                                
+                                "path":"Pilatus-clarinete2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Pilatus-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"IIIb",
+                                
+                                "path":"Pilatus-clarinete2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-eufonio.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-fagote.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-flauta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Pilatus-flauta1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Pilatus-flauta1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-flautim.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-harpa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-orgao.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Pilatus-saxA1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Pilatus-saxA2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Pilatus-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Pilatus-trombone2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Pilatus-trombone2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Pilatus-trompa1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Pilatus-trompa1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Pilatus-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Pilatus-trompete2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Pilatus-trompete2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Pilatus-tuba.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

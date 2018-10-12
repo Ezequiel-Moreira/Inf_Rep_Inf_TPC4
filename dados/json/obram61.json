@@ -1,0 +1,186 @@
+
+            {
+                "id":"m61",
+                "titulo":"Pérola 59",
+                "tipo":"Marcha de Concerto/Pasodoble"
+                
+                    ,"compositor":"Angelo Moreira"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-bateria.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Perola59-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Perola59-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Perola59-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-eufonio.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-flauta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-maestro.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-requinta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-saxA.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-saxS.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Perola59-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Perola59-trombone2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Perola59-trombone3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Perola59-trompa1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Perola59-trompa2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Perola59-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Perola59-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Perola59-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-tuba-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Perola59-xilofone.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

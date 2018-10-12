@@ -1,0 +1,172 @@
+
+            {
+                "id":"m50",
+                "titulo":"Harmonique",
+                "tipo":"Marcha de Concerto/Pasodoble"
+                
+                    ,"compositor":"Wim Laseroms"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Harmonique-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Harmonique-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Harmonique-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-eufonio.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-saxS.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-saxA.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Harmonique-saxA1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Harmonique-saxA2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-flauta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Harmonique-percussao1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Harmonique-percussao2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-requinta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Harmonique-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Harmonique-trombone2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Harmonique-trombone3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-trompa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"Harmonique-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"Harmonique-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"Harmonique-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"Harmonique-tuba.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

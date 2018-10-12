@@ -1,0 +1,152 @@
+
+            {
+                "id":"m64",
+                "titulo":"Horizonte da Razão",
+                "tipo":"Marcha de Concerto/Pasodoble"
+                
+                    ,"compositor":"Alexandre Fonseca"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-bateria.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-clarinete-baixo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"HorizonteRazao-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"HorizonteRazao-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"HorizonteRazao-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-eufonio.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-flauta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-maestro.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-requinta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-saxA.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-trombone.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-trompa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"HorizonteRazao-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"HorizonteRazao-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"HorizonteRazao-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"HorizonteRazao-trombone.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

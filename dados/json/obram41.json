@@ -1,0 +1,160 @@
+
+            {
+                "id":"m41",
+                "titulo":"Sonhos de Portugal",
+                "tipo":"Rapsódia"
+                
+                    ,"compositor":"A. Madureira da Silva"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-bombo-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-bombo-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"SonhosPortugal-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"SonhosPortugal-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"SonhosPortugal-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"SonhosPortugal-eufonio1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"SonhosPortugal-eufonio2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-flauta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-saxA.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"SonhosPortugal-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"SonhosPortugal-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"SonhosPortugal-trombone2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"SonhosPortugal-trompa1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"SonhosPortugal-trompa2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"SonhosPortugal-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"SonhosPortugal-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"SonhosPortugal-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "clave":"Sol",
+                                
+                                "path":"SonhosPortugal-tuba.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

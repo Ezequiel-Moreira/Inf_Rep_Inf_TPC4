@@ -1,0 +1,254 @@
+
+            {
+                "id":"m30",
+                "titulo":"76 Trombones",
+                "tipo":"Marcha de Concerto/Pasodoble"
+                
+                    ,"compositor":"Meredith Willson"
+                
+                    ,"compositor":"Nachiro Iwai"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-all.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-bateria.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-bombo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-baixo-eletrico.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-trombone-baixo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-eufonio.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"76Trombones-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"76Trombones-trombone2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"76Trombones-trombone2-3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "clave":"sol",
+                                
+                                "path":"76Trombones-tuba.pdf 76Trombones-tuba-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"76Trombones-trompa3-4.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"IV",
+                                
+                                "path":"76Trombones-trompa3-4.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"76Trombones-trompa1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"76Trombones-trompa1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"76Trombones-trompete3-4.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"IV",
+                                
+                                "path":"76Trombones-trompete3-4.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"76Trombones-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"76Trombones-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-saxS.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-saxA1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-saxT1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-clarinete.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"76Trombones-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"76Trombones-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"76Trombones-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-fagote.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"76Trombones-flauta1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"76Trombones-flauta2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"76Trombones-flautim.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

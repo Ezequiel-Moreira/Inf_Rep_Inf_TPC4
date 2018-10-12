@@ -1,0 +1,228 @@
+
+            {
+                "id":"m27",
+                "titulo":"Canções da Tradição",
+                "tipo":"Rapsódia"
+                
+                    ,"compositor":"Luís Cardoso"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-maestro.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-flautim.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"CancoesTrad-flauta1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"CancoesTrad-flauta2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"CancoesTrad-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"CancoesTrad-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"CancoesTrad-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"CancoesTrad-trompaF1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"CancoesTrad-trompaF2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"CancoesTrad-trompaF3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"CancoesTrad-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"CancoesTrad-trombone2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"CancoesTrad-trombone3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-eufonio.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-tuba.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"CancoesTrad-saxA1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"CancoesTrad-saxA2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"CancoesTrad-clari1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"CancoesTrad-clari2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"CancoesTrad-clari3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"IV",
+                                
+                                "path":"CancoesTrad-clari4.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-ferrinhos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-pandeireta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-percussao.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-bateria.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"CancoesTrad-bombo.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

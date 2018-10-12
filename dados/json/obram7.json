@@ -1,0 +1,270 @@
+
+            {
+                "id":"m7",
+                "titulo":"Avé Maria",
+                "tipo":"Marcha de Procissão"
+                
+                    ,"compositor":"Alberto Madureira"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-bombo-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-bombo-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"AveMaria-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"AveMaria-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"AveMaria-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-contrabaixo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "afinacao":"Dó",
+                                
+                                    "clave":"Fá",
+                                
+                                "path":"AveMaria-eufonio-fa-do.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "afinacao":"Sib",
+                                
+                                    "clave":"Fá",
+                                
+                                "path":"AveMaria-eufonio-fa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "afinacao":"Dó",
+                                
+                                    "clave":"Sol",
+                                
+                                "path":"AveMaria-eufonio-sol-do.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "afinacao":"Sib",
+                                
+                                    "clave":"Sol",
+                                
+                                "path":"AveMaria-eufonio-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-fagote.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-flauta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-maestro.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-requinta.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-saxA.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-saxS.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                    "clave":"Fá",
+                                
+                                "path":"AveMaria-trombone1-fa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                    "clave":"Sol",
+                                
+                                "path":"AveMaria-trombone1-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                    "clave":"Fá",
+                                
+                                "path":"AveMaria-trombone2-fa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                    "clave":"Sol",
+                                
+                                "path":"AveMaria-trombone2-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                    "clave":"Fá",
+                                
+                                "path":"AveMaria-trombone3-fa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                    "clave":"Sol",
+                                
+                                "path":"AveMaria-trombone3-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"AveMaria-trompa1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"AveMaria-trompa2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"AveMaria-trompa3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"AveMaria-trompete1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"AveMaria-trompete1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"AveMaria-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"AveMaria-tuba.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        

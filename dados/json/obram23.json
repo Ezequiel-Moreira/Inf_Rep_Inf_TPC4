@@ -1,0 +1,242 @@
+
+            {
+                "id":"m23",
+                "titulo":"Fate of the Gods",
+                "tipo":"Abertura/Concerto"
+                
+                    ,"compositor":"Steven Reineke"
+                
+                    ,"compositor":"Paulo Martins"
+                
+                    ,"instrumentos": [
+                        
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-bombo-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-bombo-caixa.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-clarinete-baixo.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"FateGods-clarinete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"FateGods-clarinete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"FateGods-clarinete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "afinacao":"Dó Sib",
+                                
+                                    "clave":"Fá Sol",
+                                
+                                "path":"FateGods-eufonio-fa-do.pdf FateGods-eufonio-sol.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-fagote.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"FateGods-flauta1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"FateGods-flauta1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-flautim.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-maestro.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-oboe.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"Aux",
+                                
+                                "path":"FateGods-percussao-aux.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-pratos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"FateGods-saxA1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"FateGods-saxA2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-saxB.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-saxT.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-sinos-xilofone.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-sinos-xilofone.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                "path":"FateGods-timpanos.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"FateGods-trombone1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"FateGods-trombone2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"FateGods-trombone3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"FateGods-trompa1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"FateGods-trompa1-2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"I",
+                                
+                                "path":"FateGods-trompete1.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"II",
+                                
+                                "path":"FateGods-trompete2.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "voz":"III",
+                                
+                                "path":"FateGods-trompete3.pdf"
+                            }
+                            ,
+                            {
+                                "designação":"",
+                                
+                                    "afinacao":"Dó Sib",
+                                
+                                    "clave":"Fá Sol",
+                                
+                                "path":"FateGods-trompete1.pdf FateGods-trompete1.pdf"
+                            }
+                            
+                    ]
+                
+            }
+        
