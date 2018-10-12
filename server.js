@@ -8,35 +8,52 @@ http.createServer( (req,res) => {
 
     var parsedUrl = url.parse(req.url,true)
     console.log(parsedUrl)
-    
-    var path=parsedUrl.path.split('/')
+        
+    var path=parsedUrl.pathname.split('/')
     console.log(path)
-    var q = parsedUrl.query    
-    if(q.id){
-        fs.readFile('./dados/html/obra' + q.id + '.html', (erro,dados)=>{
-            if(!erro){
-                res.write(dados)
-            }else{
-                res.write('Ocorreu um erro!')
-                console.log(erro)
-            }
+    console.log(path[1])
+
     
-            res.end()    
-        })
-    }else{
-        fs.readFile('./dados/index.html',(erro,dados)=>{
-            
+    var q = parsedUrl.query  
+    console.log(q)
+    console.log(q.id)
+
+    if(path[1]=='obras'){
+        console.log('obras')
+        fs.readFile('./dados/index.html',(erro,dados)=>{       
             if(!erro){
                 res.write(dados)
             }else{
                 res.write(erro)
             }
-
             res.end()
         })
+    }else if(path[1]=='obra'){
+        console.log('obra')
+        if(q.id){  
+            fs.readFile('./dados/html/obra' + q.id + '.html', (erro,dados)=>{
+                if(!erro){
+                    res.write(dados)
+                }else{
+                    console.log('erro de id')
+                    console.log(erro)
+                    res.writeHead(302,{'Location':'localhost:' + server + '/obras'})
+                    res.end()                
+                }
+                res.end()    
+            })
+        }else{
+            console.log('erro de id')
+            res.writeHead(302,{'Location':'localhost:' + server + '/obras'})
+            res.end()                            
+        }  
+    }else{
+        console.log('default')
+        res.writeHead(302,{'Location':'localhost:' + server + '/obras'})
+        res.end()                        
+    }
 
-    }    
-    
+
 }).listen(server,()=>{
    console.log('Servidor á escuta na porta ' + server) 
 })
