@@ -7,19 +7,10 @@ http.createServer( (req,res) => {
     res.writeHead(200,{'Content-type':'text/html'})
 
     var parsedUrl = url.parse(req.url,true)
-    console.log(parsedUrl)
-        
     var path=parsedUrl.pathname.split('/')
-    console.log(path)
-    console.log(path[1])
-
-    
     var q = parsedUrl.query  
-    console.log(q)
-    console.log(q.id)
 
     if(path[1]=='obras'){
-        console.log('obras')
         fs.readFile('./dados/index.html',(erro,dados)=>{       
             if(!erro){
                 res.write(dados)
@@ -28,8 +19,7 @@ http.createServer( (req,res) => {
             }
             res.end()
         })
-    }else if(path[1]=='obra'){
-        console.log('obra')
+    }else if(path[1]=='obra'){        
         if(q.id){  
             fs.readFile('./dados/html/obra' + q.id + '.html', (erro,dados)=>{
                 if(!erro){
@@ -38,18 +28,18 @@ http.createServer( (req,res) => {
                     console.log('erro de id')
                     console.log(erro)
                     res.writeHead(302,{'Location':'localhost:' + server + '/obras'})
-                    res.end()                
+                    res.write('documento não encontrado')                           
                 }
                 res.end()    
             })
-        }else{
-            console.log('erro de id')
+        }else{            
             res.writeHead(302,{'Location':'localhost:' + server + '/obras'})
+            res.write('documento não encontrado')
             res.end()                            
         }  
-    }else{
-        console.log('default')
+    }else{        
         res.writeHead(302,{'Location':'localhost:' + server + '/obras'})
+        res.write('documento não encontrado')
         res.end()                        
     }
 
